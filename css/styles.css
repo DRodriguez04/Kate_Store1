@@ -102,3 +102,20 @@ h3{
 .navegacion__enlace--activo, .navegacion__enlace:hover{
     color: var(--secundario);
 }
+
+/* productos */
+.producto{
+
+}
+
+.producto__imagen{
+
+}
+
+.producto__informacion{
+
+}
+
+.producto__precio{
+
+}
